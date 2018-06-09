@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Swift Order is a free Point of Sale Application.
 
-You can use the [editor on GitHub](https://github.com/ErnestFan/Swift-Order/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+With your Google account, you can manage your business easily with your partners.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### FEATURES:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ErnestFan/Swift-Order/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<ul>
+  <li>Real Time Environment - Create and manage products and orders with your partners simultaneously</li>
+  <li>Customers System - Assign customers to orders for quick management</li>
+  <li>Promotion - Create and apply discounts to orders for special events</li>
+  <li>Search System - Track down your orders by order number, create date or customer information</li>
+  <li>Multi Stores - Create and manage multiple stores with an easy tap</li>
+</ul>
