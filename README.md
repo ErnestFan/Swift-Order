@@ -2,7 +2,7 @@
 
 With your Google account, you can manage your business easily with your partners.
 
-### FEATURES:
+### FEATURES
 
 <ul>
   <li>Real Time Environment - Create and manage products and orders with your partners simultaneously</li>
@@ -12,7 +12,7 @@ With your Google account, you can manage your business easily with your partners
   <li>Multi Stores - Create and manage multiple stores with an easy tap</li>
 </ul>
 
-### Screenshots
+### SCREENSHOTS
 
 <img src="https://github.com/ErnestFan/Swift-Order/blob/master/Screenshots/Launch.png?raw=true" width="200">
 <img src="https://github.com/ErnestFan/Swift-Order/blob/master/Screenshots/Login.png?raw=true" width="200">
